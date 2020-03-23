@@ -11,3 +11,4 @@ class API implements Listeners {
     public static function addPlayer(string $name){
         
     }
+    
