@@ -12,3 +12,4 @@ class API implements Listeners {
         
     }
     
+    public static function getCoins(string $player): int{
