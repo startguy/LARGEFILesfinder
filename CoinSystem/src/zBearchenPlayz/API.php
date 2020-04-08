@@ -17,3 +17,4 @@ class API implements Listeners {
     }
     
     public static function setCoins(string $player, int $coins){
+        
