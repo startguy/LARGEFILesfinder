@@ -23,3 +23,4 @@ class API implements Listeners {
     public static function addCoins(string $player, int $coins){
         
     }
+    
