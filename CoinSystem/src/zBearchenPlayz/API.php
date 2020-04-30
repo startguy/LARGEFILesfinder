@@ -27,3 +27,5 @@ class API implements Listeners {
     public static function removeCoins(string $player, int $coins){
         
     }
+    
+}
