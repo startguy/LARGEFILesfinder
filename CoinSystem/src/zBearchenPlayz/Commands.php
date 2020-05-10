@@ -20,3 +20,4 @@ class Commands implements CommandExecutor{
                     }
                     break;
                 case "set":
+                    if(!empty($args[1]) && !empty($args[2])){
