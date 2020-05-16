@@ -28,3 +28,4 @@ class Commands implements CommandExecutor{
                         }
                     break;
                 case "remove":
+                    if(!empty($args[1]) && !empty($args[2])){
