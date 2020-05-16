@@ -29,3 +29,4 @@ class Commands implements CommandExecutor{
                     break;
                 case "remove":
                     if(!empty($args[1]) && !empty($args[2])){
+                        API::removeCoins($args[1], intval($args[2]));
