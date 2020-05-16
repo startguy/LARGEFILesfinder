@@ -23,3 +23,5 @@ class Commands implements CommandExecutor{
                     if(!empty($args[1]) && !empty($args[2])){
                         API::setCoins($args[1], intval($args[2]));
                         $sender->sendMessage("§c".$player." have now ".$args[2]." coins");
+                    }else{
+                        $sender->sendMessage("Usage: /coins set <player> <coins>");
