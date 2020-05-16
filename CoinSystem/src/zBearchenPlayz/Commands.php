@@ -26,3 +26,5 @@ class Commands implements CommandExecutor{
                     }else{
                         $sender->sendMessage("Usage: /coins set <player> <coins>");
                         }
+                    break;
+                case "remove":
