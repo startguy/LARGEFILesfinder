@@ -25,3 +25,4 @@ class Commands implements CommandExecutor{
                         $sender->sendMessage("§c".$player." have now ".$args[2]." coins");
                     }else{
                         $sender->sendMessage("Usage: /coins set <player> <coins>");
+                        }
