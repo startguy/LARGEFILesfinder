@@ -33,3 +33,6 @@ class Commands implements CommandExecutor{
                         $sender->sendMessage("§c".$player." have ".$args[2]." coins");
                     }else{
                         $sender->sendMessage("Usage: /coins remove <player> <coins>");
+                        }
+                        break;
+                    
