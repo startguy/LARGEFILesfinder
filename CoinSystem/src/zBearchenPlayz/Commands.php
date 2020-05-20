@@ -39,3 +39,5 @@ class Commands implements CommandExecutor{
             }
             return true;
         }
+    }
+}
