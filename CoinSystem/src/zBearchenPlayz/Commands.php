@@ -36,3 +36,5 @@ class Commands implements CommandExecutor{
                         }
                         break;
                     
+            }
+            return true;
