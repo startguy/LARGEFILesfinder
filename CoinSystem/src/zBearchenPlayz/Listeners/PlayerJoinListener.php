@@ -11,3 +11,5 @@ use pocketmine\event\player\PlayerLoginEvent;
 class PlayerJoinListener implements Listener{
     
     public function onJoin(PlayerJoinEvent){
+        
+    }
