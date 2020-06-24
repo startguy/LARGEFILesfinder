@@ -1,2 +1,2 @@
 <?php
-namesp
+namespac
