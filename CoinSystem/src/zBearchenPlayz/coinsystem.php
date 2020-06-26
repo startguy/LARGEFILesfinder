@@ -1,2 +1,2 @@
 <?php
-namespace z
+namespace zBe
