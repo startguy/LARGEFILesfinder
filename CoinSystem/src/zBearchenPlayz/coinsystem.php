@@ -1,2 +1,2 @@
 <?php
-namespace zBearche
+namespace zBearchenP
