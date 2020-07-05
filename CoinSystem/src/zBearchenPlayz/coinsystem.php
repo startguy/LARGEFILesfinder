@@ -1,2 +1,2 @@
 <?php
-namespace zBearchenPlayz\co
+namespace zBearchenPlayz\coi
