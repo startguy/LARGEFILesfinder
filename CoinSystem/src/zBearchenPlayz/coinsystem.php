@@ -1,2 +1,2 @@
 <?php
-namespace zBearchenPlayz\coi
+namespace zBearchenPlayz\coinsyst
