@@ -1,2 +1,3 @@
 <?php
-namespace zBearchenPlayz\coinsystem
+namespace zBearchenPlayz\coinsystem;
+u
