@@ -1,3 +1,3 @@
 <?php
 namespace zBearchenPlayz\coinsystem;
-use zBe
+use zBea
