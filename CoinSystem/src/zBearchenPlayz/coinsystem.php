@@ -1,3 +1,3 @@
 <?php
 namespace zBearchenPlayz\coinsystem;
-use zBear
+use zBearch
