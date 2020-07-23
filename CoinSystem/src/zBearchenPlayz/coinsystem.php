@@ -1,3 +1,3 @@
 <?php
 namespace zBearchenPlayz\coinsystem;
-use zBearchenPlayz\Provider\M
+use zBearchenPlayz\Provider\MyS
