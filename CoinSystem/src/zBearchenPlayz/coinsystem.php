@@ -1,3 +1,3 @@
 <?php
 namespace zBearchenPlayz\coinsystem;
-use zBearchenPlayz\Provider\MySQLDataPr
+use zBearchenPlayz\Provider\MySQLDataPro
