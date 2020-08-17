@@ -1,4 +1,4 @@
 <?php
 namespace zBearchenPlayz\coinsystem;
 use zBearchenPlayz\Provider\MySQLDataProvider;
-use zBearchenPlayz\AP
+use zBearchenPlayz\API
