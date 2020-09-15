@@ -4,4 +4,4 @@ use zBearchenPlayz\Provider\MySQLDataProvider;
 use zBearchenPlayz\API;
 use zBearchenPlayz\Listeners\PlayerJoinListener;
 
-use pocketmine\plugins\PluginBas
+use pocketmine\plugins\PluginBase;
