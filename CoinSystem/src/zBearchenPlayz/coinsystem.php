@@ -8,4 +8,4 @@ use pocketmine\plugins\PluginBase;
 use pocketmine\lang\BaseLang;
 
 
-class CoinSystem
+class CoinSystem 
