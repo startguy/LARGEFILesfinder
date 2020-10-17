@@ -9,3 +9,5 @@ use pocketmine\lang\BaseLang;
 
 
 class CoinSystem extends PluginBase {
+
+   
