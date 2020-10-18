@@ -10,4 +10,4 @@ use pocketmine\lang\BaseLang;
 
 class CoinSystem extends PluginBase {
 
-    const P
+    const PRE
