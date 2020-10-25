@@ -10,4 +10,4 @@ use pocketmine\lang\BaseLang;
 
 class CoinSystem extends PluginBase {
 
-    const PREFIX = "§
+    const PREFIX = "§7
