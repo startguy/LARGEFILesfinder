@@ -13,4 +13,4 @@ class CoinSystem extends PluginBase {
     const PREFIX = "§7[§eCoinSystem§7] ";
 
     public $provider;
-    public static
+    public static $
