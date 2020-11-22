@@ -14,3 +14,4 @@ class CoinSystem extends PluginBase {
 
     public $provider;
     public static $instance;
+
