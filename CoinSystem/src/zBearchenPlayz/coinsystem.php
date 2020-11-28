@@ -15,4 +15,4 @@ class CoinSystem extends PluginBase {
     public $provider;
     public static $instance;
 
-    public fu
+    public func
