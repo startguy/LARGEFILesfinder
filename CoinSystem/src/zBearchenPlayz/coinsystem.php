@@ -16,3 +16,5 @@ class CoinSystem extends PluginBase {
     public static $instance;
 
     public function onEnable() {
+
+ 
