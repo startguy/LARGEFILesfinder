@@ -17,4 +17,4 @@ class CoinSystem extends PluginBase {
 
     public function onEnable() {
 
-        $this->getLogger()->info(self::PREFIX . "by §6zBearchenPlayz§7!
+        $this->getLogger()->info(self::PREFIX . "by §6zBearchenPlayz§7!");
