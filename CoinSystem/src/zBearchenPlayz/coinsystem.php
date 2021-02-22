@@ -20,4 +20,4 @@ class CoinSystem extends PluginBase {
         $this->getLogger()->info(self::PREFIX . "by §6zBearchenPlayz§7!");
 <<<<<<< HEAD
         self::$instance = $this;
-===
+======
