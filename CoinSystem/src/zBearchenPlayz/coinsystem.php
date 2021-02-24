@@ -21,3 +21,4 @@ class CoinSystem extends PluginBase {
 <<<<<<< HEAD
         self::$instance = $this;
 =======
+ 
