@@ -22,4 +22,4 @@ class CoinSystem extends PluginBase {
         self::$instance = $this;
 =======
         
-        new 
+        new C
