@@ -25,4 +25,4 @@ class CoinSystem extends PluginBase {
         new Commands();
 >>>>>>> 90408d2eaf6bd0c4b689a7c81bbc4f3a199b06d6
 
-   
+    
