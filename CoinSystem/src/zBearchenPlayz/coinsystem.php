@@ -27,4 +27,4 @@ class CoinSystem extends PluginBase {
 
         $this->saveDefaultConfig();
 
-        $lang = $this->getConfig()->get("language", BaseLang::FALLBACK_LANGUA
+        $lang = $this->getConfig()->get("language", BaseLang::FALLBACK_LANGUAG
