@@ -32,4 +32,4 @@ class CoinSystem extends PluginBase {
 
         $this->getLogger()->info(self::PREFIX . "Language: " . $lang);
 
-        if($this->getConfig()->get("prov
+        if($this->getConfig()->get("provid
