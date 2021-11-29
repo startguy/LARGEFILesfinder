@@ -32,4 +32,5 @@ class CoinSystem extends PluginBase {
 
         $this->getLogger()->info(self::PREFIX . "Language: " . $lang);
 
-        if($this->getConfig()->get("provider") == "mysql"
+        if($this->getConfig()->get("provider") == "mysql"){
+  
