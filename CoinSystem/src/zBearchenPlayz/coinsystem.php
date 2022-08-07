@@ -36,3 +36,4 @@ class CoinSystem extends PluginBase {
             $this->provider = new MySQLDataProvider($this->getConfig()->getNested("mysql.host"), $this->getConfig()->getNested("mysql.username"), $this->getConfig()->getNested("mysql.password"), $this->getConfig()->getNested("mysql.password"));
         }else{
             //Comming Soon
+    
