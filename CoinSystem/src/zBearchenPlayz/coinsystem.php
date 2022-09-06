@@ -38,4 +38,5 @@ class CoinSystem extends PluginBase {
             //Comming Soon
             return;
         }
- 
+    }
+
