@@ -37,4 +37,5 @@ class CoinSystem extends PluginBase {
         }else{
             //Comming Soon
             return;
-       
+        }
+ 
