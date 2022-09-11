@@ -40,4 +40,4 @@ class CoinSystem extends PluginBase {
         }
     }
 
-    public fun
+    public func
