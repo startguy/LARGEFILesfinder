@@ -41,3 +41,4 @@ class CoinSystem extends PluginBase {
     }
 
     public function onDisable(){
+ 
