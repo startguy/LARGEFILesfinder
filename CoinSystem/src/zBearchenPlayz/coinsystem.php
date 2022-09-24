@@ -41,4 +41,4 @@ class CoinSystem extends PluginBase {
     }
 
     public function onDisable(){
-        if(
+        if(is
