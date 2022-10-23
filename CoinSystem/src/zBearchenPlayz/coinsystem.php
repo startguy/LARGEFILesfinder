@@ -45,3 +45,4 @@ class CoinSystem extends PluginBase {
             $this->provider->close();
     }
 
+ 
