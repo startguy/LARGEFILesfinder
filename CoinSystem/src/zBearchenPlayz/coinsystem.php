@@ -45,4 +45,4 @@ class CoinSystem extends PluginBase {
             $this->provider->close();
     }
 
-    public static function getInstance
+    public static function getInstance()
