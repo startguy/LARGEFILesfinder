@@ -46,4 +46,4 @@ class CoinSystem extends PluginBase {
     }
 
     public static function getInstance(){
-        return sel
+        return self:
