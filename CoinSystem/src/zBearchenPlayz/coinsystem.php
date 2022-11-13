@@ -47,4 +47,4 @@ class CoinSystem extends PluginBase {
 
     public static function getInstance(){
         return self::$instance;
-   
+    }
