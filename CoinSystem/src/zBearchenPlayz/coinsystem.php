@@ -49,4 +49,4 @@ class CoinSystem extends PluginBase {
         return self::$instance;
     }
 
-    /
+    /**
