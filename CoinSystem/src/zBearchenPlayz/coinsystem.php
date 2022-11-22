@@ -50,4 +50,4 @@ class CoinSystem extends PluginBase {
     }
 
     /**
-     * @return 
+     * @return B
