@@ -55,4 +55,4 @@ class CoinSystem extends PluginBase {
     public function getLanguage(): BaseLang {
         return $this->baseLang;
     }
- 
+  
