@@ -57,3 +57,4 @@ class CoinSystem extends PluginBase {
     }
     
     
+}
